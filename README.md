@@ -1,2 +1,0 @@
-# DataStructures
-Data Structures Assignments
