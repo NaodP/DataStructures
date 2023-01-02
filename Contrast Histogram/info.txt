@@ -1,0 +1,14 @@
+Classes:
+- Binary Search Tree
+- BST Node
+- Pixel
+    - intensity
+    - count
+    - cummulatives
+    - adjusted intensity
+
+Methods:
+- search(target): for BST class
+- inorder traversal(): for BST class
+- add(node): for BST class
+- height(): for BST class

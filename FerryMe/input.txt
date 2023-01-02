@@ -1,0 +1,106 @@
+SAMPLE INFO
+11
+1 2 Orcas_Island
+2 3 Orcas_Island
+3 1 Shaw
+4 1 Shaw
+5 1 Friday_Harbor
+6 3 Orcas_Island
+7 3 Friday_Harbor
+8 4 Shaw
+9 4 Shaw
+10 4 Friday_Harbor
+11 2 Orcas_Island
+4
+1 1
+2 2
+3 3
+4 2
+3
+Orcas_Island
+Shaw
+Friday_Harbor
+
+UNSUCCESSFUL SCENARIO
+10
+1 1 Long_Beach
+2 2 Venice_Beach
+3 3 Malibu_Beach
+4 1 Long_Beach
+5 2 Venice_Beach
+6 3 Malibu_Beach
+7 1 Long_Beach
+8 2 Venice_Beach
+9 3 Malibu_Beach
+10 1 Long_Beach
+3
+1 1
+2 3
+3 3
+3
+Long_Beach
+Malibu_Beach
+Venice_Beach
+
+UNSUCCESSFUL SCENARIO
+10
+1 2 Long_Beach
+2 3 Venice_Beach
+3 3 Malibu_Beach
+4 3 Long_Beach
+5 1 Long_Beach
+6 2 Long_Beach
+7 3 Venice_Beach
+8 1 Malibu_Beach
+9 1 Venice_Beach
+10 2 Long_Beach
+3
+1 2
+2 2
+3 3
+3
+Malibu_Beach
+Long_Beach
+Venice_Beach
+
+SUCCESSFUL SCENARIO
+10
+1 1 Long_Beach
+2 2 Long_Beach
+3 3 Malibu_Beach
+4 1 Long_Beach
+5 2 Malibu_Beach
+6 3 Venice_Beach
+7 1 Long_Beach
+8 2 Malibu_Beach
+9 3 Venice_Beach
+10 1 Venice_Beach
+3
+1 1
+2 2
+3 2
+3
+Long_Beach
+Malibu_Beach
+Venice_Beach
+
+SUCCESSFUL SCENARIO
+10
+1 1 Long_Beach
+2 2 Venice_Beach
+3 3 Malibu_Beach
+4 1 Long_Beach
+5 2 Venice_Beach
+6 3 Malibu_Beach
+7 1 Long_Beach
+8 2 Venice_Beach
+9 3 Malibu_Beach
+10 1 Long_Beach
+3
+1 1
+2 3
+3 3
+3
+Long_Beach
+Venice_Beach
+Malibu_Beach
